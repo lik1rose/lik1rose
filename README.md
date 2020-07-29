@@ -19,7 +19,7 @@ This is KD_01, Here is my GitHub
       >>>akrapovic slip-on
       >>>>KW v3
       
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lik1rose&layout=compact)
 
 
 
