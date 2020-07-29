@@ -9,7 +9,12 @@ This is KD_01, Here is my GitHub
 * UI/UX designer
     * Ps/Id/Ai/Lr
     * Xmind
-* s55 engine owner👨🏻‍🔧
+* s55 Engine owner👨🏻‍🔧
+    * Modifications
+    >Eventuri intake
+    >>akrapovic slip-on
+    >>>KW v3
+    >JB-4 stage3
 
 
 
