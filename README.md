@@ -3,7 +3,7 @@
 This is KD_01, Here is my GitHub
 ----
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lik1rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lik1rose)]
 
 
 * Front-End developer at SafeCode in Melbourne
