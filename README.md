@@ -1,8 +1,16 @@
 ### Hi there 👋
-===
     
 This is KD_01, Here is my GitHub
 ----
+
+* Front-End developer at SafeCode in Melbourne
+ * CSS/Sass
+ * npm/node
+* UI/UX designer
+ * Ps/Id/Ai/Lr
+ * Xmind
+* s55 engine owner👨🏻‍🔧
+
 
 
 
