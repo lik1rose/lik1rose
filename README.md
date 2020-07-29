@@ -3,7 +3,7 @@
 This is KD_01, Here is my GitHub
 ----
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lik1rose&show_icons=true&theme=nightowl)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lik1rose&show_icons=true&theme=nightowl)
 
 
 * Front-End developer at SafeCode in Melbourne
@@ -18,6 +18,9 @@ This is KD_01, Here is my GitHub
       >>JB-4 stage3
       >>>akrapovic slip-on
       >>>>KW v3
+      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 
 
